@@ -1,0 +1,22 @@
+{
+    "articles" : [
+        {
+            "id" : "1" ,
+            "title" : "welcome to the site" ,
+            "author" : "Mahdi" , 
+            "body" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo, eos? Molestias, odio? Minima adipisci, soluta placeat labore rem cum corrupti laborum, ea, perferendis quam dolore quaerat numquam nam veniam id."
+        },
+        {
+            "id" : "2" ,
+            "title" : "s react tips for beginners" ,
+            "author" : "Nader" , 
+            "body" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo, eos? Molestias, odio? Minima adipisci, soluta placeat labore rem cum corrupti laborum, ea, perferendis quam dolore quaerat numquam nam veniam id."
+        },
+        {
+            "id" : "3" ,
+            "title" : "vscode best packages" ,
+            "author" : "Bahram" , 
+            "body" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo, eos? Molestias, odio? Minima adipisci, soluta placeat labore rem cum corrupti laborum, ea, perferendis quam dolore quaerat numquam nam veniam id."
+        }
+    ]
+}
